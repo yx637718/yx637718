@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <br>
 ![XY's github stats](https://github-readme-stats.vercel.app/api?username=yx637718&theme=solarized-light&show_icons=true)
 
-### Platform & Tools
 
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/yx637718)
+### Platform & Tools
+![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=Windows)
