@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ### Platform & Tools
-![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=Windows)
+![](https://img.shields.io/badge/Windows-10-blue?style=flat&logo=Windows&logoColor=ffffff)
