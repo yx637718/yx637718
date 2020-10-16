@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-http://antzuhl.cn:4000/get/@yx637718.readme
+![](http://antzuhl.cn:4000/get/@yx637718.readme)
+<br>
 ![XY's github stats](https://github-readme-stats.vercel.app/api?username=yx637718&theme=solarized-light&show_icons=true)
+
+### Platform & Tools
+
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/yx637718)
