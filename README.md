@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Adobe-Photoshop-31a8ff?style=flat&logo=Adobe-Photoshop&logoColor=ffffff)
 ![](https://img.shields.io/badge/Adobe-Illustrator-ff9a00?style=flat&logo=Adobe-Illustrator&logoColor=ffffff)
 
-<br>
-
 ![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=ffffff)
