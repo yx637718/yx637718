@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Windows-10-292e33?style=flat&logo=Windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/Microsoft-Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=ffffff)
 
-<br>
-
 ![](https://img.shields.io/badge/Adobe-Photoshop-31a8ff?style=flat&logo=Adobe-Photoshop&logoColor=ffffff)
 ![](https://img.shields.io/badge/Adobe-Illustrator-ff9a00?style=flat&logo=Adobe-Illustrator&logoColor=ffffff)
 
@@ -38,8 +36,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Anaconda-42B029?style=flat&logo=Anaconda&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Visual%20Studio-007acc?style=flat&logo=Visual-Studio-Code&logoColor=ffffff)
 
-<br>
-
 ![](https://img.shields.io/badge/-SAS-003791?style=flat)
 ![](https://img.shields.io/badge/-R-276dc3?style=flat&logo=R&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=Python&logoColor=ffffff)
@@ -48,13 +44,13 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
 ![](https://img.shields.io/badge/-KNIME-F7D900?style=flat)
 
-<br>
-
 ![](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=ffffff)
-![](https://img.shields.io/badge/-Pokemon-FFCB05?style=flat&logo=Pokemon&logoColor=ffffff)
+![](https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=Pokémon&logoColor=ffffff)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx637718&layout=compact)](https://github.com/yx637718/github-readme-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=yx637718&repo=github-readme-stats)
 
 
