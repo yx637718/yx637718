@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ### Platform & Tools
 
 ![](https://img.shields.io/badge/Windows-10-292e33?style=flat&logo=Windows&logoColor=ffffff)
-![](https://img.shields.io/badge/Microsoft-Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=ffffff)
-
+![](https://img.shields.io/badge/Microsoft-Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=ffffff)  
 ![](https://img.shields.io/badge/Adobe-Photoshop-31a8ff?style=flat&logo=Adobe-Photoshop&logoColor=ffffff)
 ![](https://img.shields.io/badge/Adobe-Illustrator-ff9a00?style=flat&logo=Adobe-Illustrator&logoColor=ffffff)
 
@@ -49,7 +48,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx637718&layout=compact)](https://github.com/yx637718/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx637718&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=yx637718&repo=github-readme-stats)
 
