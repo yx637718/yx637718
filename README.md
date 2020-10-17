@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](http://antzuhl.cn:4000/get/@yx637718.readme)
 <br>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=yx637718&theme=vue&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=yx637718&theme=graywhite&show_icons=true&hide_title=true)
 
 
 ### Platform & Tools
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-SAS-003791?style=flat)
 ![](https://img.shields.io/badge/-R-276dc3?style=flat&logo=R&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=Python&logoColor=ffffff)
-![](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=ffffff)
+![](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=ffffff)  
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
 ![](https://img.shields.io/badge/-KNIME-F7D900?style=flat)
