@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 ### Platform & Tools
 
 ![](https://img.shields.io/badge/Windows-10-292e33?style=flat&logo=Windows&logoColor=ffffff)
-![](https://img.shields.io/badge/Microsoft-Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=ffffff)  
-![](https://img.shields.io/badge/Adobe-Photoshop-31a8ff?style=flat&logo=Adobe-Photoshop&logoColor=ffffff)
-![](https://img.shields.io/badge/Adobe-Illustrator-ff9a00?style=flat&logo=Adobe-Illustrator&logoColor=ffffff)  
+![](https://img.shields.io/badge/Microsoft-Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=ffffff) 
+
 ![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=ffffff)
@@ -39,7 +38,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=ffffff)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff)
-![](https://img.shields.io/badge/-KNIME-F7D900?style=flat)  
+![](https://img.shields.io/badge/-KNIME-F7D900?style=flat)
+
+![](https://img.shields.io/badge/Adobe-Photoshop-31a8ff?style=flat&logo=Adobe-Photoshop&logoColor=ffffff)
+![](https://img.shields.io/badge/Adobe-Illustrator-ff9a00?style=flat&logo=Adobe-Illustrator&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=Pokémon&logoColor=ffffff)
 
