@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yx637718/yx637718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ![](http://antzuhl.cn:4000/get/@yx637718.readme)
-<br>
-<br>
-![](https://github-readme-stats.vercel.app/api?username=yx637718&theme=graywhite&show_icons=true&hide_title=true)
 
-
-### Platform & Tools
+### 👾Platform & Tools
 
 ![](https://img.shields.io/badge/Windows-10-292e33?style=flat&logo=Windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/Microsoft-Office-D83B01?style=flat&logo=Microsoft-Office&logoColor=ffffff) 
@@ -45,9 +39,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=Pokémon&logoColor=ffffff)
 
-<br>
+### ✨Github Stats
+![](https://github-readme-stats.vercel.app/api?username=yx637718&theme=buefy&show_icons=true&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx637718&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🐢Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx637718&theme=vue&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
