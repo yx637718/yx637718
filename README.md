@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](http://antzuhl.cn:4000/get/@yx637718.readme)
 <br>
 <br>
-![](https://github-readme-stats.vercel.app/api?username=yx637718&theme=yeblu&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=yx637718&theme=vue&show_icons=true)
 
 
 ### Platform & Tools
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=ffffff)
 ![](https://img.shields.io/badge/-RStudio-75aadb?style=flat&logo=RStudio&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Anaconda-42B029?style=flat&logo=Anaconda&logoColor=ffffff)
-![](https://img.shields.io/badge/-Visual%20Studio-007acc?style=flat&logo=Visual-Studio-Code&logoColor=ffffff)  
+![](https://img.shields.io/badge/-Visual%20Studio-007acc?style=flat&logo=Visual-Studio-Code&logoColor=ffffff)
 ![](https://img.shields.io/badge/-SAS-003791?style=flat)
 ![](https://img.shields.io/badge/-R-276dc3?style=flat&logo=R&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=Python&logoColor=ffffff)
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx637718&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx637718&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=yx637718&repo=jpn-learn)
+
 
 
