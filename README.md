@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👋Hi there
 ![](http://antzuhl.cn:4000/get/@yx637718.readme)
 
 ### 👾Platform & Tools
@@ -42,7 +43,7 @@ Here are some ideas to get you started:
 ### ✨Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=yx637718&theme=buefy&show_icons=true&hide_title=true)
 
-### 🐢Languages
+### 🐢Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yx637718&theme=vue&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
